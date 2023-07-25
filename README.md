@@ -46,3 +46,5 @@ What factors influence the price of Airbnb listings?
 What is the seasonal pattern of Airbnb bookings?
 What are the most popular neighborhoods for Airbnb bookings?
 The project will conclude by summarizing the findings and providing insights that can be used to optimize Airbnb bookings, improve customer experience, and increase profitability for Airbnb hosts.
+
+# Conclusion
