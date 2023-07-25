@@ -7,9 +7,31 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 
 * Optimizing the pricing strategy: The analysis can help to identify the factors that affect the price of Airbnb listings, such as location, amenities, and availability. This information can be used to optimize the pricing strategy, set competitive prices, and improve the profitability of the Airbnb business.
 
-* Improving customer experience: The analysis can help to identify the common amenities and features that customers are looking for in Airbnb listings. This information can be used to improve the customer experience, add new features to the listings, and increase customer satisfaction.
+* Improving customer experience: The analysis can help identify the common amenities and features customers are looking for in Airbnb listings. This information can be used to improve the customer experience, add new features to the listings, and increase customer satisfaction.
 
-* Identifying new business opportunities: The analysis can help to identify new business opportunities in the Airbnb market, such as identifying under-served areas or niches. This information can be used to develop new products or services that cater to these segments and increase the market share.
+* Identifying new business opportunities: The analysis can help identify new business opportunities in the Airbnb market, such as under-served areas or niches. This information can be used to develop new products or services that cater to these segments and increase the market share.
+
+
+
+# Variables Description
+Variables found in an Airbnb booking analysis dataset:
+
+Host ID: A unique identifier for the Airbnb host.
+
+Listing name: The name of the Airbnb listing. Neighborhood: The neighborhood where the Airbnb listing is located.
+
+Latitude and Longitude: The geographical coordinates of the Airbnb listing.
+
+Room type: The type of room available for booking, such as private room, shared room or entire home/apartment.
+
+Price: The nightly price of the Airbnb listing.
+
+Minimum nights: The minimum number of nights required to book the Airbnb listing.
+
+Ratings: The overall rating and review scores of the Airbnb listing, as rated by previous guests.
+
+Host response rate: The rate at which the Airbnb host responds to inquiries and booking requests.
+
 
 # airbnb-booking-analysis-eda
 
