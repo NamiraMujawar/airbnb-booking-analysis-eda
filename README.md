@@ -48,3 +48,9 @@ What are the most popular neighborhoods for Airbnb bookings?
 The project will conclude by summarizing the findings and providing insights that can be used to optimize Airbnb bookings, improve customer experience, and increase profitability for Airbnb hosts.
 
 # Conclusion
+
+In conclusion, the analysis of Airbnb booking data provides valuable insights into the booking patterns and preferences of users. Through the analysis of various variables such as the type of room, neighborhood, and pricing, we can identify trends and patterns that can help Airbnb optimize their business strategy and provide a better experience for their users.
+
+We found that entire apartments were the most popular type of room booked by guests, followed by private rooms and shared rooms. Additionally, we found that Manhattan and Queens were the most popular neighborhoods, with the highest number of listings per host. We also discovered that there was a positive correlation between the number of reviews and the booking price, suggesting that guests were willing to pay more for higher-quality listings.
+
+Overall, this analysis provides valuable insights into the Airbnb platform and can help the company make data-driven decisions to optimize their business strategy and improve the user experience. By understanding the booking preferences of users, Airbnb can prioritize their efforts and resources to maximize revenue and provide a better experience for their hosts and guests.
